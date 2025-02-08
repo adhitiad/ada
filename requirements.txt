@@ -3,7 +3,6 @@ langchain
 langchain-huggingface
 langchain-core
 langchain-community
-langchain-groq
 langchain-text-splitters
 langchain-milvus
 langgraph
@@ -16,4 +15,10 @@ redis
 tensorboard
 flask
 beautifulsoup4
-requests
+requests 
+tiktoken 
+langchain-nomic 
+tavily-python 
+bs4
+streamlit
+langchain[groq]
